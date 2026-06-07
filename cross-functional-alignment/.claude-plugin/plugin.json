@@ -1,0 +1,9 @@
+{
+  "name": "cross-functional-alignment",
+  "version": "1.0.0",
+  "description": "Keep design, product, and engineering aligned: intake, decision logs, working agreements, RACI, and OKR linkage.",
+  "author": { "name": "MC Dean", "url": "https://marieclairedean.substack.com/" },
+  "keywords": ["alignment", "intake", "decision", "raci", "okr", "working-agreement"],
+  "homepage": "https://github.com/Owl-Listener/ux-pgm-skills",
+  "license": "MIT"
+}

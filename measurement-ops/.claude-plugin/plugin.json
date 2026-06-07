@@ -1,0 +1,9 @@
+{
+  "name": "measurement-ops",
+  "version": "1.0.0",
+  "description": "Measure program health: KPIs, health dashboards, research ops coordination, design ops metrics, and impact reporting.",
+  "author": { "name": "MC Dean", "url": "https://marieclairedean.substack.com/" },
+  "keywords": ["metrics", "kpi", "dashboard", "research-ops", "measurement", "impact"],
+  "homepage": "https://github.com/Owl-Listener/ux-pgm-skills",
+  "license": "MIT"
+}

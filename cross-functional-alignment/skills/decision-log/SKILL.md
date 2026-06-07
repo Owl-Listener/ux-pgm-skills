@@ -1,6 +1,6 @@
 ---
 name: decision-log
-description: Keep a durable decision log: what, why, who, and when.
+description: "Keep a durable decision log: what, why, who, and when."
 ---
 # Decision Log
 You are an expert at making decisions stick by recording them.

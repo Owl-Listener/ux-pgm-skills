@@ -1,0 +1,9 @@
+{
+  "name": "delivery-execution",
+  "version": "1.0.0",
+  "description": "Drive delivery: cycle orchestration, risk registers, blocker triage, launch readiness, and retrospectives.",
+  "author": { "name": "MC Dean", "url": "https://marieclairedean.substack.com/" },
+  "keywords": ["delivery", "execution", "risk", "blocker", "launch", "retrospective"],
+  "homepage": "https://github.com/Owl-Listener/ux-pgm-skills",
+  "license": "MIT"
+}

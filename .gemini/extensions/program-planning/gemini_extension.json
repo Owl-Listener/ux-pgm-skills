@@ -1,0 +1,6 @@
+{
+  "name": "program-planning",
+  "version": "1.0.0",
+  "description": "Plan and scope UX programs: roadmaps, dependency maps, scoping, capacity planning, and transparent prioritisation.",
+  "contextFileName": "GEMINI.md"
+}

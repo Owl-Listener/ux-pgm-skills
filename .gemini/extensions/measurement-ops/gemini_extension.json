@@ -1,0 +1,6 @@
+{
+  "name": "measurement-ops",
+  "version": "1.0.0",
+  "description": "Measure program health: KPIs, health dashboards, research ops coordination, design ops metrics, and impact reporting.",
+  "contextFileName": "GEMINI.md"
+}

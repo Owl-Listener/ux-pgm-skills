@@ -1,0 +1,6 @@
+{
+  "name": "delivery-execution",
+  "version": "1.0.0",
+  "description": "Drive delivery: cycle orchestration, risk registers, blocker triage, launch readiness, and retrospectives.",
+  "contextFileName": "GEMINI.md"
+}

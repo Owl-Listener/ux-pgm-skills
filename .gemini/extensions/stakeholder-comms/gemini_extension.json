@@ -1,0 +1,6 @@
+{
+  "name": "stakeholder-comms",
+  "version": "1.0.0",
+  "description": "Communicate with stakeholders: mapping, status reporting, executive updates, alignment workshops, and escalation.",
+  "contextFileName": "GEMINI.md"
+}

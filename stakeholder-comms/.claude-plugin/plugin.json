@@ -1,0 +1,9 @@
+{
+  "name": "stakeholder-comms",
+  "version": "1.0.0",
+  "description": "Communicate with stakeholders: mapping, status reporting, executive updates, alignment workshops, and escalation.",
+  "author": { "name": "MC Dean", "url": "https://marieclairedean.substack.com/" },
+  "keywords": ["stakeholder", "communication", "status", "executive", "alignment", "escalation"],
+  "homepage": "https://github.com/Owl-Listener/ux-pgm-skills",
+  "license": "MIT"
+}

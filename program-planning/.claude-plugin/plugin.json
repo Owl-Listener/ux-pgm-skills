@@ -1,0 +1,9 @@
+{
+  "name": "program-planning",
+  "version": "1.0.0",
+  "description": "Plan and scope UX programs: roadmaps, dependency maps, scoping, capacity planning, and transparent prioritisation.",
+  "author": { "name": "MC Dean", "url": "https://marieclairedean.substack.com/" },
+  "keywords": ["program", "roadmap", "planning", "scope", "capacity", "prioritisation"],
+  "homepage": "https://github.com/Owl-Listener/ux-pgm-skills",
+  "license": "MIT"
+}

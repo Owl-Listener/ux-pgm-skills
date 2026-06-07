@@ -1,0 +1,48 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ux-pgm-skills",
+  "version": "1.0.0",
+  "description": "UX PgM Skills Collection: structured AI workflows for running design programs. Domain-specific skills and chained workflows across 6 plugins — from program planning to stakeholder comms, delivery, cross-functional alignment, measurement, and process design.",
+  "owner": {
+    "name": "MC Dean",
+    "url": "https://marieclairedean.substack.com/"
+  },
+  "plugins": [
+    {
+      "name": "program-planning",
+      "description": "Plan and scope UX programs: roadmaps, dependency maps, scoping, capacity planning, and transparent prioritisation.",
+      "source": "./program-planning",
+      "category": "product"
+    },
+    {
+      "name": "stakeholder-comms",
+      "description": "Communicate with stakeholders: mapping, status reporting, executive updates, alignment workshops, and escalation.",
+      "source": "./stakeholder-comms",
+      "category": "product"
+    },
+    {
+      "name": "delivery-execution",
+      "description": "Drive delivery: cycle orchestration, risk registers, blocker triage, launch readiness, and retrospectives.",
+      "source": "./delivery-execution",
+      "category": "product"
+    },
+    {
+      "name": "cross-functional-alignment",
+      "description": "Keep design, product, and engineering aligned: intake, decision logs, working agreements, RACI, and OKR linkage.",
+      "source": "./cross-functional-alignment",
+      "category": "product"
+    },
+    {
+      "name": "measurement-ops",
+      "description": "Measure program health: KPIs, health dashboards, research ops coordination, design ops metrics, and impact reporting.",
+      "source": "./measurement-ops",
+      "category": "product"
+    },
+    {
+      "name": "process-design",
+      "description": "Design how the team works: workflows, governance, rituals, scaling playbooks, and process retrospectives.",
+      "source": "./process-design",
+      "category": "product"
+    }
+  ]
+}

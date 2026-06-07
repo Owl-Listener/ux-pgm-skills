@@ -1,0 +1,9 @@
+{
+  "name": "process-design",
+  "version": "1.0.0",
+  "description": "Design how the team works: workflows, governance, rituals, scaling playbooks, and process retrospectives.",
+  "author": { "name": "MC Dean", "url": "https://marieclairedean.substack.com/" },
+  "keywords": ["process", "workflow", "governance", "ritual", "scaling", "playbook"],
+  "homepage": "https://github.com/Owl-Listener/ux-pgm-skills",
+  "license": "MIT"
+}
